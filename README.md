@@ -65,5 +65,3 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
 | Criteria       		|     Specifications	        			            | 
 |:---------------------:|:---------------------------------------------------------:| 
 | Predict and display the keypoints on each detected face. | After face detection with a Haar cascade and face pre-processing, apply the trained model to each detected face, and display the predicted keypoints on each face in the image. |
-
-LICENSE: This project is licensed under the terms of the MIT license.
